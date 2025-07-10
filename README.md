@@ -132,4 +132,8 @@ Performance: Optimized loading and smooth interactions
 Maintainability: Well-structured, documented code
 Scalability: Easy to extend with additional features
 
-This weather dashboard serves as an excellent demonstration of modern web development skills, combining API integration, responsive design, and professional UI/UX practices suitable for internship portfolios and real-world applications.RetryClaude can make mistakes. Please double-check responses. Sonnet 4
+## OUTPUT:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/de19483c-6826-47d4-8155-50a11036f607" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c4447286-1567-48f5-a27b-eb7658c1b8a5" />
